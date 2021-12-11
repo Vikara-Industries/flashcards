@@ -1,1 +1,0 @@
-Flash card app in which the user can make decks, export and import them from local storage, and of course review the flash cards.

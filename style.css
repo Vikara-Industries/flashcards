@@ -1,0 +1,38 @@
+*{
+  font-family: sans-serif;
+  margin:0;
+  padding:0;
+}
+
+.card-holder{
+  position: absolute;
+  height:100%;
+  width:100%;
+}
+button{
+  background-color:cadetblue;
+  font-size: 1.5em;
+  position: fixed;
+  width: 100px;
+  height:100px;
+}
+
+.card{
+  position: absolute;
+  background-color: bisque;
+  width:70%;
+  height:100%;
+  left:15%;
+  font-size: 5em;
+}
+.rightbtn{
+  width: 15%;
+  height:100%;
+  right:0;
+}
+.wrongbtn{
+  background-color: rgb(255, 138, 161);
+  width: 15%;
+  height: 100%;
+  left:0%
+}
